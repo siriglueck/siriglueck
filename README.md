@@ -6,7 +6,7 @@
 - 👀 I am interested in learning computer languages, human languages (EN, DE, TH, CN), and arts.
 - 🌱 I am currently learning HTML,CSS,JavaScript and many more to become a web developer.
 
-``` I am open to collaborating on any projects that provide good contributions to society ```
+``` It is okay if I do not understand it today, I will try it again. 1% is also a progress ```
 
 ![Text](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
