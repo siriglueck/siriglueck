@@ -3,8 +3,8 @@
 
 - 👋 Hi there, I am @Siri-RTNP. 
 - 💕 I relocated across countries to be with my life partner and start over in life.
-- 👀 I am interested in learning computer languages, human languages (EN, DE, TH, CN), and arts.
-- 🌱 I am currently learning HTML,CSS,JavaScript and many more to become a web developer.
+- 👀 I am interested in learning computer languages, human languages (EN, DE, TH, CN), and design.
+- 🌱 I am currently learning HTML, CSS, JavaScript, jQuery and many more to become a web developer.
 
 ``` It is okay if I do not understand it today, I will try it again. 1% is also a progress ```
 
