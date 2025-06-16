@@ -5,8 +5,7 @@ I am interested in learning computer languages and human languages (EN, DE, TH, 
 
 I am proud of myself that I grow a little more each day. 🌱 
 
-My motto today:
-``` If I can learn German, I can learn programming. If I can learn programming, I can learn German. ```
+``` wer nicht mit der zeit geht, geht mit der zeit ```
 
 ![Text](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Text](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
