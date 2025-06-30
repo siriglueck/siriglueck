@@ -5,10 +5,9 @@ I am a generation WHY who has experienced floppy disks, 56k modems and dump phon
 
 Because learning is fascinating! I believe in life-long learning and believe that everyone has their own pace. It is a matter of knowing it now or do not know it yet, wanting to know or do not want to know. 
 
-**und Übung macht den Meister**
->Our small actions daily would lead to life changing experience someday.
-I enjoy learning computer languages and human languages as well. ```(EN, DE, TH, CN)```
-Learning is not a competition in school system and it is really fun, sharing knowledges with others.
+**und natürlich Übung macht den Meister ! (Practice makes perfect)**
+>I believe my small actions daily would lead to life changing experience someday and learning is not a competition in school system. It is fun when sharing with others. I enjoy learning computer languages, as well as human languages. ```(EN, DE, TH, CN)```
+
 
 🌱 I am proud of myself that I grow a little more and am still breathing each day.  
 
