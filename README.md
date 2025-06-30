@@ -1,11 +1,18 @@
-### Welcome ! It means something that you are here today ..
-###### Here is my safe zone where I allow myself to learn and fail repeatedly as parts of my learning journey
+### 😊 Welcome ! It means something that you are here today .. 
+#### 🕹️ Here is my safe space where I allow myself to learn and to fail as parts of my learning process.
 
-I am interested in learning computer languages and human languages (EN, DE, TH, CN).
+I am a generation WHY who has experienced floppy disks, 56k modems and dump phones. I learn programming out of my childhood's curiosity and aim to understand how things work behind the scence after being a user for decades. 
 
-I am proud of myself that I grow a little more each day. 🌱 
+Because learning is fascinating! I believe in life-long learning and believe that everyone has their own pace. It is a matter of knowing it now or do not know it yet, wanting to know or do not want to know. 
 
-``` wer nicht mit der zeit geht, geht mit der zeit ```
+**und Übung macht den Meister**
+>Our small actions daily would lead to life changing experience someday.
+I enjoy learning computer languages and human languages as well. ```(EN, DE, TH, CN)```
+Learning is not a competition in school system and it is really fun, sharing knowledges with others.
+
+🌱 I am proud of myself that I grow a little more and am still breathing each day.  
+
+---------
 
 ![Text](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Text](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
