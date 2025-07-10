@@ -8,24 +8,11 @@ Because learning is fascinating! I believe in life-long learning and believe tha
 **und natürlich Übung macht den Meister ! (Practice makes perfect)**
 >Anyways, I believe my small actions daily would lead to life changing experience someday and learning is not a competition in school system. It is fun when sharing with others. I enjoy learning computer languages, as well as human languages. ```(EN, DE, TH, CN)```
 
-🌱 ```TL;DR``` ---> I am happy with the fact that I am growing, knowing a little more and am still breathing each day.  
-
+🌱 ```TL;DR```
 ---------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siri-RTNP&layout=compact&theme=dark)]
 
-![Text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Text](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Text](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-
-![Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 <!---
