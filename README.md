@@ -10,7 +10,7 @@ Because learning is fascinating! I believe in life-long learning and believe tha
 
 🌱 ```TL;DR```
 ---------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siri-RTNP&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siriglueck&layout=compact&theme=dark)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
