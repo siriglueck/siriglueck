@@ -1,6 +1,6 @@
 🌱 ```Growing```
 ---------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siriglueck&langs_count=20&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siriglueck&langs_count=100&theme=dark)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
