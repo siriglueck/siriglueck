@@ -5,24 +5,23 @@
 <type>(<scope>): <subject>
 ```
 
-## Examples
+## For Learning Projects
 
-```
-feat(user): add profile picture upload
+| Type | Description | Example |
+|------|-------------|---------|
+| `learn` | Following Tutorials/Courses | `learn(udm): add database migrations (chapter 7)` |
+| `experiment` |  Trying New Things | `experiment: try Redux instead of Context API` |
+| `practice` | Applying What You Learned | `practice: recreate Netflix UI from scratch` |
+| `checkpoint` | Milestones/Working States | `checkpoint: MVP features done` |
+| `wip` | work in progress | `wip: implement login feature` |
 
-fix(cart): prevent negative quantities
-
-docs: add API documentation
-
-chore(deps): bump react to 18.2.0
-```
-
-## Types
+## Standard Practice
 
 | Type | Description | Example |
 |------|-------------|---------|
 | `feat` | New feature | `feat(auth): add login functionality` |
 | `fix` | Bug fix | `fix(api): resolve timeout issue` |
+| `wip` | work in progress | `wip: implement new shopping cart logic` |
 | `docs` | Documentation only | `docs(readme): update installation steps` |
 | `style` | Code style/formatting | `style: fix indentation` |
 | `refactor` | Code restructuring | `refactor(parser): simplify logic` |
